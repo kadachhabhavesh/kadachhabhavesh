@@ -1,4 +1,6 @@
 # 💫 About Me:
+#👋 Hello, I'm <BHAVESH/> 
+👨‍💻 pursuing B.Tech (CSE) from @Darshan_university.
 🚀 Passionate software developer skilled in **MERN Stack, .NET Core **.  
 🤖 Exploring **Agentic AI** and its real-world applications. 
 📚 Always learning and experimenting with new technologies.  
