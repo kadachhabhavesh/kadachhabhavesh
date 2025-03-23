@@ -1,4 +1,3 @@
-💫 About Me:
 # 👋 Hello, I'm &lt;BHAVESH/&gt;
 👨‍💻 pursuing B.Tech (CSE) from @Darshan_university.
 🚀 Passionate software developer skilled in **MERN Stack, .NET Core **.  
