@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>👋 Hello, I'm `<BHAVESH/>` </h1>
+<h1>👋 Hello, I'm &lt;BHAVESH/&gt; </h1>
 👨‍💻 pursuing B.Tech (CSE) from @Darshan_university.
 🚀 Passionate software developer skilled in **MERN Stack, .NET Core **.  
 🤖 Exploring **Agentic AI** and its real-world applications. 
